@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/NMRExperiment21/data/nmrsu/nmr/UMT_Maulidiani/31/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-09-17 16:58:17.290 +0800>,<nmrsu>,<TOPSPIN>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2019-09-17 16:56:12.990 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       BF 54 1F 72 C7 5D FD B3 1D 09 E8 E0 EA CA 8A C4
+       data hash MD5: 32K
+       9D 25 D5 B7 15 83 DC 97 CE 2F 3B 17 FE 25 3A 17>)
+##END=
+
+$$ hash MD5
+$$ 04 70 78 E5 EE 71 39 39 DA 2C 7B 8E B2 5F 0C 7C

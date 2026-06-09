@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 7
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2019-09-17 17:15:42.443 +0800  nmrsu@TOPSPIN
+$$ C:/NMRExperiment21/data/nmrsu/nmr/UMT_Maulidiani/32/pdata/1/assocs
+$$ process C:\Bruker\TopSpin35PL7\prog\mod\dataserver.exe
+##$MULTDISP= <C:\NMRExperiment21\data\nmrsu\nmr\UMT_Maulidiani\31\pdata\1>
+##END=

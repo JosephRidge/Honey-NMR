@@ -1,0 +1,32 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 7
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMRExpNew/Autosampler/Dr Maulidiani 2021/data/nmrsu/nmr/H16/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-04-06 02:47:08.826 +0800>,<nmrsu>,<NMRPC>,<go4>,<TopSpin 3.5.7>,
+      <created by zg
+	started at 2021-04-06 02:12:14.273 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       FF E7 D5 6A CB 31 D3 32 7E 2B 36 9C 34 41 6F C6
+       data hash MD5: 64K
+       07 12 57 18 1A C0 84 F4 6F D4 FD 12 B2 D8 C6 73>)
+(   2,<2021-04-06 02:47:09.216 +0800>,<nmrsu>,<NMRPC>,<audit>,<TopSpin 3.5.7>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 64K
+       07 12 57 18 1A C0 84 F4 6F D4 FD 12 B2 D8 C6 73>)
+(   3,<2021-04-06 02:47:17.406 +0800>,<nmrsu>,<NMRPC>,<proc1d>,<TopSpin 3.5.7>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       C9 D1 FE 87 86 5E 62 3A F2 46 60 6D 66 D5 9D 75>)
+(   4,<2021-04-06 02:47:18.217 +0800>,<nmrsu>,<NMRPC>,<proc1d>,<TopSpin 3.5.7>,
+      <pk PHC0 = 14.33716 PHC1 = 0 
+       data hash MD5: 64K
+       21 39 55 12 64 98 DB 5E B8 CD F4 FD AD 52 ED CE>)
+##END=
+
+$$ hash MD5
+$$ A1 0F 9A E2 C2 A1 D8 83 DB 67 C9 5D E3 2A F5 5A

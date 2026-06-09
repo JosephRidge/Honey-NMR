@@ -1,0 +1,2 @@
+Frequency,PC1 (%),PC2 (%),Cumulative (%),k‑fold Accuracy (%),Bootstrap Accuracy (%)
+400 MHz,64.01884214647437,12.549786012072465,76.56862815854683,82.0 ± 21.2,77.9 ± 13.4
