@@ -9,11 +9,11 @@ The study uses an open‑access dataset of 20 commercial honey samples  (honey b
 ## Repository Structure
 Each notebook is self‑contained: it loads the data, preprocesses it, runs PCA, PLS‑DA with repeated k‑fold cross‑validation, bootstrap out‑of‑bag validation, permutation testing, VIP scores, and loading plots,and then saves all figures.
 
-├── 400MHz_analysis.ipynb    # Full analysis for 400 MHz data
-├── 700MHz_analysis.ipynb    # Full analysis for 700 MHz data
-├── requirements.txt         # Python dependencies
-├── README.md                # This file
-└── data/                    # Data files  
+├── 400MHz_analysis.ipynb    # Full analysis for 400 MHz data <br>
+├── 700MHz_analysis.ipynb    # Full analysis for 700 MHz data <br>
+├── requirements.txt         # Python dependencies <br>
+├── README.md                # This file <br>
+└── data/                    # Data files <br>
 
 ## Dataset
 
